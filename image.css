@@ -110,7 +110,6 @@ form{
   cursor: pointer;
   margin: 1em auto 2em auto;
   transition: background-colour .3s ease-in-out;
-  display: none;
 }
 
 #show-more:hover{
